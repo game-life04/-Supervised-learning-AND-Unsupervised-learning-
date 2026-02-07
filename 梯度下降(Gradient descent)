@@ -1,0 +1,9 @@
+have some function J(w,b)
+want minJ(w,b)
+
+Outline:
+Start with some w,b(set w=0,b=0)
+Keep changing w,b to rreduce J(w,b) min(w1,....wn,b)J(w1,w2......wn,b)
+Until we settle at or near a minimum(直到我们达到或接近最低水平)
+
+![[Pasted image 20260207095749.png]]
