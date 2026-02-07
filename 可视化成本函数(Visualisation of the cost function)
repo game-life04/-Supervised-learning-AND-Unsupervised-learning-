@@ -1,0 +1,8 @@
+| model         | f(w,b)(x)=wx+b                          |
+| ------------- | --------------------------------------- |
+| parameters    | w,b                                     |
+| Cost Function | J(w,b)=1/2m $i=1到m$(f(w,b)(xi)-(yi))**2 |
+| Objective     | minimize J(w,b)                         |
+
+![[Pasted image 20260207093601.png]]
+![[Pasted image 20260207093639.png]]
